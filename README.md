@@ -1,6 +1,7 @@
 # 🛒 Ora Fashion E-commerce: Customer Retention & Churn Analytics (Capstone Project)
 
 **Interact with the Live Dashboard:** [Microsoft Power BI](https://app.powerbi.com/view?r=eyJrIjoiNjMyZWUyOTEtNjlmNS00NjhlLWEwYzAtMzQ2ZmY4ZDJlOTk0IiwidCI6ImRlNTM3NmEzLTdhOTEtNGM1NS1hOGQ5LTI0YjhkMTVlNWViMSJ9)
+
 **Read the full Business Case on Medium:** [Medium Article](https://medium.com/@guilhermeoyakawalmeida/stopping-the-bleed-architecting-a-predictive-churn-retention-dashboard-for-e-commerce-5b317f17c512)
 
 **Role:** BI & Data Analyst (Focus on Power BI, RFM Modeling, and Strategic Visualization)  
