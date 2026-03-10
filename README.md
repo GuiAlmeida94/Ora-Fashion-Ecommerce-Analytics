@@ -1,5 +1,7 @@
 # 🛒 Ora Fashion E-commerce: Customer Retention & Churn Analytics (Capstone Project)
 
+**Interact with the Live Dashboard:** [Microsoft Power BI](https://app.powerbi.com/view?r=eyJrIjoiNjMyZWUyOTEtNjlmNS00NjhlLWEwYzAtMzQ2ZmY4ZDJlOTk0IiwidCI6ImRlNTM3NmEzLTdhOTEtNGM1NS1hOGQ5LTI0YjhkMTVlNWViMSJ9)
+
 **Role:** BI & Data Analyst (Focus on Power BI, RFM Modeling, and Strategic Visualization)  
 **Project Type:** Master's Degree Capstone Project (Data Science)
 
