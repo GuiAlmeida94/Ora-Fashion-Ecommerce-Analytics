@@ -41,7 +41,7 @@ Bridging Data Science and Marketing. Based on the churn predictions and RFM clus
 *(Insert the screenshot of the Strategy Dashboard here)*
 ![FranceGermanyStrategy](https://github.com/user-attachments/assets/0bfc297f-fbed-493b-a187-55f37b5f8373)
 ![ItalyStrategy](https://github.com/user-attachments/assets/258f3573-120b-42e0-941e-3abe8dd90aa9)
-![Uploading UKSpainStrategy.JPG…]()
+![UKSpainStrategy](https://github.com/user-attachments/assets/bcdfd9a6-14a8-4a93-98e5-86afd1466569)
 ![GreeceNetherlandsStrategy](https://github.com/user-attachments/assets/c12a9db4-1d30-4627-8d2e-8de28a087fde)
 
 ## 💡 Executive ROI
